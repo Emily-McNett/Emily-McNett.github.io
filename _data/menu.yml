@@ -1,19 +1,13 @@
 - title: "About"
   href: "/about/"
 
-- title: "Research"
-  href: "/research/"
-
 - title: "Projects"
   href: "/projects/"
 
-- title: "Blog"
-  href: "/blog/"
-
-- title: "CV"
+- title: "Resume"
   href: "/cv/"
 
-- title: "Miscellany"
+- title: "Miscellaneous"
   href: "/miscellany/"
   subcategories:
     - subtitle: "Courses Undertaken"
