@@ -1,17 +1,19 @@
-# main links
+#main links
 main:
-  - title: "home"
+  - title: "Home"
     url: /
-  - title: "blog"
-    url: /blog
-  - title: "poetry"
-    url: /poetry
-  - title: "submenu"
-    url: /
-    children: 
-      - title: "item 1"
-        url: /404
-      - title: "item 2"
-        url: /404
-  - title: "subscribe"
-    url: /feed.xml
+  - title: "About"
+    url: /about
+  - title: "Projects"
+    url: /projects
+  - title: "Resume"
+    url: /resume
+  - title: "Miscellaneous"
+    url: /miscellaneous
+    children:
+      - title: "Courses Undertaken"
+        url: /miscellaneous/courses
+      - title: "Extracurriculars"
+        url: /miscellaneous/extracurricular
+      - title: "Travel"
+        url: /miscellaneous/travel
