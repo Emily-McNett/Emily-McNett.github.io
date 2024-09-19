@@ -6,7 +6,7 @@ subtitle: Soon-to-be Computer Science and Applied Mathematics & Computer Science
 
 profile:
   align: right
-  image: Emily-SIParCS 23.jpg
+  image: Emily-SIParCS23.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Milton, WI 53563</p>
