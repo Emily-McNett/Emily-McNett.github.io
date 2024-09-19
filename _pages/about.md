@@ -6,7 +6,7 @@ subtitle: Hello There!
 
 profile:
   align: right
-  image: Emily-SIParCS 23.jpg
+  image: Emily-SIParCS23.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Located in Milton, WI 53563</p>
