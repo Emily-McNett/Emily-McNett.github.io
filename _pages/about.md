@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Soon-to-be Computer Science and Applied Mathematics & Computer Science graduate from the University of Wisconsin-Stout.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Emily-SIParCS 23.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Milton, WI 53563</p>
+    <p></p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm an honors student and soon-to-be graduate at the University of Wisconsin-Stout double majoring in Computer Science and Applied Mathematics & Computer Science with a concentration in Software Development. Currently, I am looking for full-time employment in software development for after May 2025.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I have two summers of software development internship experience, one at a National Laboratory and one in the expanding world of precast concrete. Through these opportunities and my coursework, I have extensive experience working in an Agile-Scrum workflow, advanced leadership and communication skills, and a well-rounded knowledge of different technologies.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I have advanced my leadership skills through multiple roles and organizations as the President of the Applied Mathematics and Computer Science Women's Group, a student representative on the Applied Mathematics and Computer Science Advisory Committee, and the Vice President of the Printmaking Club.
