@@ -2,14 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: Soon-to-be Computer Science and Applied Mathematics & Computer Science graduate from the University of Wisconsin-Stout.
+subtitle: Hello There!
 
 profile:
   align: right
   image: Emily-SIParCS 23.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Milton, WI 53563</p>
+    <p>Located in Milton, WI 53563</p>
+    <p>Willing to Relocate</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
