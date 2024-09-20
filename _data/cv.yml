@@ -3,6 +3,10 @@
   contents:
     - name: Full Name
       value: Emily Mc Nett
+    - name: Date of Birth
+      value: 14th March 1879
+    - name: Languages
+      value: English, German
 
 - title: Education
   type: time_table

@@ -6,9 +6,9 @@ nav_order: 8
 dropdown: true
 children:
   - title: courses
-    permalink: /publications/
+    permalink: /courses/
   - title: divider
-  - title: clubs
+  - title: extracurriculars 
     permalink: /projects/
   - title: divider
   - title: travels
