@@ -1,16 +1,16 @@
 ---
 layout: page
-title: submenus
+title: extras
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
+  - title: courses
     permalink: /publications/
   - title: divider
-  - title: projects
+  - title: clubs
     permalink: /projects/
   - title: divider
-  - title: blog
+  - title: travels
     permalink: /blog/
 ---
