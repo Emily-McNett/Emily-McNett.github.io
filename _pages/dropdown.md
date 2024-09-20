@@ -8,7 +8,7 @@ children:
   - title: courses
     permalink: /courses/
   - title: divider
-  - title: extracurriculars 
+  - title: extracurriculars
     permalink: /projects/
   - title: divider
   - title: travels
