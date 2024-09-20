@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Applying Search Techniques for Scientific Data Discovery and Exploration
+description: This redirects to the National Center for Atmospheric Research's webpage for the abstract, poster, and recorded talk of my summer project as an intern.
+img: assets/img/Kibana.png
+redirect: https://www.cisl.ucar.edu/siparcs-2023-emily-mcnett
+importance: 1
+category: Internship Projects
 ---
 
 Every project has a beautiful feature showcase page.
@@ -18,7 +18,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/Kibana.png
     ---
 
 <div class="row">
