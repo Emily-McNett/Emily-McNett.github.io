@@ -3,7 +3,7 @@ layout: page
 title: travels
 permalink: /travels/
 description: A growing collection my travels.
-nav: true
+nav: false
 nav_order: 3
 display_categories: [Bike Packing]
 horizontal: false
