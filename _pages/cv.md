@@ -5,7 +5,7 @@ title: resume
 nav: true
 nav_order: 2
 cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Below is an overview of my resume. To download the full PDF of my resume please select the PDF icon in the top right corner. 
 toc:
   sidebar: left
 ---
