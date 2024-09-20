@@ -4,7 +4,7 @@ title: Rock-to-Rock
 description: This is a test
 img: assets/img/Kibana.png
 importance: 1
-category:
+category: 
 ---
 
 Every project has a beautiful feature showcase page.
