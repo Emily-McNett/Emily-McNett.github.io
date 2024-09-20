@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Applying Search Techniques for Scientific Data Discovery and Exploration
-description: This redirects to the National Center for Atmospheric Research's webpage for the abstract, poster, and recorded talk for my summer project.
+title: Rock-to-Rock
+description: This is a test
 img: assets/img/Kibana.png
-redirect: https://www.cisl.ucar.edu/siparcs-2023-emily-mcnett
 importance: 1
-category: Internship Projects
+category:
 ---
 
 Every project has a beautiful feature showcase page.

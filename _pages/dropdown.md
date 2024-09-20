@@ -12,5 +12,5 @@ children:
     permalink: /projects/
   - title: divider
   - title: travels
-    permalink: /projects/
+    permalink: /travels/
 ---
