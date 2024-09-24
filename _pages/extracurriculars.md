@@ -1,11 +1,11 @@
 ---
 layout: page
-title: travels
-permalink: /travels/
-description: A growing collection my travels.
+title: extracurriculars
+permalink: /extracurriculars/
+description: Extracurriculars.
 nav: false
 nav_order: 3
-display_categories: [Bike Packing, Disney]
+display_categories: []
 horizontal: false
 ---
 
@@ -17,11 +17,11 @@ horizontal: false
   <a id="{{ category }}" href=".#{{ category }}">
     <h2 class="category">{{ category }}</h2>
   </a>
-  {% assign categorized_projects = site.travels | where: "category", category %}
+  {% assign categorized_projects = site.extracurriculars | where: "category", category %}
   {% assign sorted_projects = categorized_projects | sort: "importance" %}
   <!-- Generate cards for each project -->
   {% if page.horizontal %}
-  <div class="container">
+  <div class="container">p
     <div class="row row-cols-1 row-cols-md-2">
     {% for project in sorted_projects %}
       {% include projects_horizontal.liquid %}
@@ -41,7 +41,7 @@ horizontal: false
 
 <!-- Display projects without categories -->
 
-{% assign sorted_projects = site.travels | sort: "importance" %}
+{% assign sorted_projects = site.extracurriculars | sort: "importance" %}
 
   <!-- Generate cards for each project -->
 

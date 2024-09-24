@@ -200,6 +200,9 @@ collections:
   travels:
     output: true
     permalink: /:collection/:title/
+  extracurriculars:
+    output: true
+    permalink: /:collection/:title/
 
 announcements:
   enabled: false

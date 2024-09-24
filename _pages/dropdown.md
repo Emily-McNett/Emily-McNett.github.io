@@ -9,7 +9,7 @@ children:
     permalink: /courses/
   - title: divider
   - title: extracurriculars
-    permalink: /projects/
+    permalink: /extracurriculars/
   - title: divider
   - title: travels
     permalink: /travels/
