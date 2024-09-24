@@ -2,7 +2,7 @@
 layout: page
 permalink: /courses/
 title: courses undertaken
-description: This is a descriptive compilation of the mathematical, statistical, and computer science courses I have taken.
+description: This is a compilation of the mathematical, statistical, and computer science courses I have taken at the University of Wisconsin-Stout.
 nav: false
 nav_order: 6
 toc:
@@ -11,6 +11,7 @@ toc:
 
 <h5>Computer Science</h5>
 <ul>
+  <li>Computer Programming I & II</li>
   <li>Data Structures</li>
   <li>Web and Internet Programming</li>
   <li>Database Systems</li>

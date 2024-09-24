@@ -2,7 +2,7 @@
 layout: page
 title: extracurriculars
 permalink: /extracurriculars/
-description: Extracurriculars.
+description: A compilation of my extracurricular and volunteer experiences.
 nav: false
 nav_order: 3
 display_categories: []

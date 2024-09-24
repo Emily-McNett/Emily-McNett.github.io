@@ -1,24 +1,19 @@
 ---
 layout: page
 title: Rock-to-Rock
-description: This is a test
+description: Summer 2024 Bike Packing Trip in Wisconsin from Rock County to Rock Island.
 img: assets/img/Kibana.png
 importance: 1
 category: Bike Packing
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<ul>
+    <li>Father-daughter trip with mom in the support car</li>
+    <li>270+ miles over 6 days</li>
+    <li>Bike packing turned bike touring</li>
+</ul>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/Kibana.png
-    ---
+<h5>Day One: Rock County to Juneau, WI</h5>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
