@@ -1,0 +1,12 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "styles";
+
+/* Keep dropdowns open on hover */
+.navbar .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+  }
+  
