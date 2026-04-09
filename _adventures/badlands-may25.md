@@ -14,7 +14,7 @@ This is the trip where Payton got stabbed with a hotel needle because it was win
 
 <img src="/images/adventure/badlands-may25/IMG_0212.jpg" width="500" />
 
-<img src="/images/adventure/badlands-may25/IMG_0281.jpg" width="500" />
+<img src="/images/adventure/badlands-may25/IMG_0281.JPG" width="500" />
 
 <img src="/images/adventure/badlands-may25/IMG956023.JPG" width="500" />
 
