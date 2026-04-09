@@ -20,7 +20,7 @@ background: '/images/main_pages/IMG_9786.JPEG'
         {% endif %}
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %} {{ post.author }} {% else %} {{ site.author
+        Posted {% if post.author %} {{ post.author }} {% else %} {{ site.author
         }} {% endif %} on {{ post.date | date: '%B %d, %Y' }} · {% include
         read_time.html content=post.content %}
     </p>

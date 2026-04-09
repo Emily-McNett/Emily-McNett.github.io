@@ -8,7 +8,12 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 3.10.0"
+
+# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
+# do not have a Java counterpart.
+gem "github-pages", group: :jekyll_plugins
+
+gem "webrick", "~> 1.9"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "jekyll-theme-clean-blog"
@@ -36,9 +41,3 @@ end
 # kramdown v2 ships without the gfm parser by default. If you're using
 # kramdown v1, comment out this line.
 gem "kramdown-parser-gfm"
-
-# Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
-# do not have a Java counterpart.
-gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
-
-gem "webrick", "~> 1.9"

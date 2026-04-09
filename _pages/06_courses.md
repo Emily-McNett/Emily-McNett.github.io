@@ -2,8 +2,8 @@
 layout: page
 permalink: /courses/
 title: Courses Taken
-description: This is a compilation of the mathematical, statistical, and computer science courses I have taken at the University of Wisconsin-Stout.
-background: /images/main_pages/IMG_8038.JPEG
+description: This is a compilation of the mathematical, statistical, and computer science courses I took at the University of Wisconsin-Stout.
+background: /images/main_pages/course/bear.jpg
 ---
 # Computer Science
 
