@@ -10,10 +10,10 @@ date: 2024-06-06 05:55:00 -0500
 
 This was a drifty meet up that Nahum joined us on.
 
-<img src="/images/adventure/mtrushmore-june24/IMG_8877.JPG" width="500" />
+<img src="/images/adventure/mtrushmore-june24/IMG_8877.jpg" width="500" />
 
-<img src="/images/adventure/mtrushmore-june24/IMG_8878.JPG" width="500" />
+<img src="/images/adventure/mtrushmore-june24/IMG_8878.jpg" width="500" />
 
 <img src="/images/adventure/mtrushmore-june24/IMG_8875.JPG" width="500" />
 
-<img src="/images/adventure/mtrushmore-june24/IMG_8891.JPG" width="500" />
+<img src="/images/adventure/mtrushmore-june24/IMG_8891.jpg" width="500" />
