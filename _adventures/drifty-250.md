@@ -6,7 +6,7 @@ background: '/images/adventure/drifty-250/IMG_9255.JPEG'
 date: 2020-08-04 05:55:00 -0500
 ---
 
-# The Driftless 250 (Drifty 250)
+# August 2020 - ?
 
 The **Driftless 250**, or **Drifty 250**, is a ~125 mile bike and ~125 mile kayak adventure through southwestern and central Wisconsin. I first participated with my dad in August of 2020. We purchased bikes specifically for the experience and were very underprepared for the week-long event.
 
@@ -19,6 +19,7 @@ We slept on sandbars and watched Christian get chased down by a barge.
 <img src="/images/adventure/drifty-250/IMG_3730.JPEG" width="500" />
 
 <img src="/images/adventure/drifty-250/barge.jpg" width="500" />
+
 <img src="/images/adventure/drifty-250/beached-by-barge.jpg" width="500" />
 
 Then we walked up some hills and stopped at some camp grounds. 

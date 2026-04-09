@@ -12,7 +12,7 @@ background: "/images/post/IMG_9111.jpg"
 
 ## My Mom's Site
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">KristinaCatz.wix.com</a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">KristinaKatz.wix.com</a>
 
 ## My Brother's Site
 
