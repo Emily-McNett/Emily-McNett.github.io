@@ -2,7 +2,7 @@
 layout: adventure
 title: "Mt Rushmore"
 subtitle: "Photos of my June 2024 Mt Rushmore trip."
-background: '/images/adventure/mtrushmore-june24/IMG_8891.JPG'
+background: '/images/adventure/mtrushmore-june24/IMG_8891.jpg'
 date: 2024-06-06 05:55:00 -0500 
 ---
 
